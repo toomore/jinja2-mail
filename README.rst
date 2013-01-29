@@ -54,7 +54,7 @@ jinja2 - mail
 
 ::
 
-    python ./t send ./paper20121210.htm #寄送郵件
+    python ./t.py send ./paper20121210.htm #寄送郵件
 
 延伸功能
 -----------------------------------

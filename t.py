@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import sys,os
+import sys
 from jinja2 import Environment, FileSystemLoader
 from boto.ses.connection import SESConnection
 import piconfig
